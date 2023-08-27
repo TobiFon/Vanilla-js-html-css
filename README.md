@@ -1,1 +1,1 @@
-# Vanilla-js-html-css
+# Vanilla-js-html-css mini projects
